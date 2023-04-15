@@ -80,7 +80,7 @@ body   {
    /*  Logo*/
 
 .page-header {
-    padding: 25px 0;
+    /* padding: 24px 0; */
     border-bottom: 1px solid#e7e9fc;
 }
 
@@ -460,12 +460,17 @@ body   {
     letter-spacing: 0.04em;
 }
 
+
 .item-filter__btn:hover,
 .item-filter__btn:focus {
     background: #404BBF;
     color: #FFFFFF;
     border: 1px solid transparent;
 
+}
+.ifp__btn:hover,
+.ifp__btn:focus {
+    border: 1px solid transparent;
 }
 
 .works-list {
