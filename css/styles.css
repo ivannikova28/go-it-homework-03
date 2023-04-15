@@ -126,6 +126,7 @@ body   {
 .header__menu {
     display: flex;
     gap:40px;
+    padding: 24px 0 24px;
 }
 
 .menu-link,
@@ -138,7 +139,7 @@ body   {
 .menu-link:not(:last-child) { 
     margin-right: 0;
 }
-.menu-link {
+.link-menu{
     padding: 24px 0;
 }
 
