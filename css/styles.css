@@ -126,7 +126,7 @@ body   {
 .header__menu {
     display: flex;
     gap:40px;
-    padding: 24px 0 24px;
+    /* padding: 24px 0 24px; */
 }
 
 .menu-link,
@@ -247,7 +247,7 @@ body   {
 /* Section 2 */
 
 .second-section {
-    padding: 120px 0;
+    /* padding: 120px 0; */
 }
 
 .second__container {
@@ -332,7 +332,7 @@ body   {
 }
 
 .list__four__img{
-    margin-bottom:32px;
+    /* margin-bottom:32px; */
 }
 
 
@@ -453,11 +453,11 @@ body   {
     line-height: 24px;
     color: var(--primary-text);
     background-color: var(--primary-third-text);
-    cursor: pointer transparent;
+    cursor: pointer;
     border: 1px solid #E7E9FC;
     border-radius: 4px;
     letter-spacing: 0.04em;
-    padding: 12px 24px;
+    padding: 13px 23px;
 }
 .ifp__btn {
     letter-spacing: 0.04em;
