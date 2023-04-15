@@ -128,9 +128,6 @@ body   {
     gap:40px;
 }
 
-.menu-link {
-    padding: 24px 0;
-}
 .menu-link,
 .link-menu {
     line-height: 1.5;
@@ -141,7 +138,9 @@ body   {
 .menu-link:not(:last-child) { 
     margin-right: 0;
 }
-
+.menu-link {
+    padding: 24px 0;
+}
 
 .menu-address__item:not(:last-child){
     margin: 0 40px 0 0;
