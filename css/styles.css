@@ -151,6 +151,9 @@ body   {
 .link-menu:focus   {
     color: #404BBF;
 }
+/* .link-menu {
+    padding: 24px 0;
+} */
 
 .header-adress__menu {
     display: flex;
