@@ -249,7 +249,7 @@ body   {
 
 .second__container {
     max-width: 1158px;
-    padding: 120px 0;
+    /* padding: 120px 0; */
 } 
 
 .list__sect__second {
@@ -390,8 +390,8 @@ body   {
     text-transform: uppercase;
     color: var(--primary-third-text);
     margin-bottom:15px;
-    display: inline-block;
-    margin-bottom: 16px;
+    /* display: inline-block;
+    margin-bottom: 16px; */
     
 }
 .logo-footer__link {
@@ -464,6 +464,7 @@ body   {
 .item-filter__btn:focus {
     background: #404BBF;
     color: #FFFFFF;
+    border: 1px solid transparent;
 
 }
 
