@@ -290,7 +290,8 @@ body   {
 
         /* Sektion 3  What are we doing*/
 .secrion__three {
-    padding: 120px 0;
+    /* padding: 120px 0; */
+    padding: 0 0 120px 0;
 }
         
 .section-title {
@@ -374,7 +375,7 @@ body   {
     letter-spacing: 0.02em;
     font-weight: 400;
     color: #434455;
-    margin-bottom: 32px;
+    /* margin-bottom: 32px; */
     text-align: center;
    
 
