@@ -348,13 +348,16 @@ body   {
     width:calc((100% - 3 * 24px)/3);
     display: flex;
     flex-direction: column;
-    border-radius: 0px 0px 4px 4px;
+    
     
 }
 .section_four__item {
     padding: 32px 16px;
-    border-radius: 0px 0px 4px 4px;
-}
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+}          
 
 .name-working   {
     font-weight: 500;
